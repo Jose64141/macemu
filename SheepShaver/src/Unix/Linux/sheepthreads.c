@@ -29,6 +29,7 @@
 
 #include <sys/types.h>
 #include <sys/wait.h>
+#include <linux/sched.h>
 #include <stdlib.h>
 #include <errno.h>
 #include <unistd.h>
