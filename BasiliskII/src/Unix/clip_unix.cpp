@@ -66,7 +66,7 @@
 #include "main.h"
 #include "emul_op.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 #ifndef NO_STD_NAMESPACE

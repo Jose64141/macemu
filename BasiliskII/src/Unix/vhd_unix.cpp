@@ -29,7 +29,7 @@ extern "C" {
 }
 // libvhd.h defines DEBUG
 #undef DEBUG
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 static disk_generic::status vhd_unix_open(const char *name, int *size,

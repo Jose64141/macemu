@@ -29,7 +29,7 @@
 #include "macos_util.h"
 #include "thunks.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 

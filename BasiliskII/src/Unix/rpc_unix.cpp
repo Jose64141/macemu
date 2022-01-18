@@ -43,7 +43,7 @@
 
 #include "rpc.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 #define NON_BLOCKING_IO 0

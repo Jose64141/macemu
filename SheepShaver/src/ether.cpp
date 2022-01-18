@@ -32,7 +32,7 @@
 #include "ether_defs.h"
 #include "macos_util.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 // Packet types

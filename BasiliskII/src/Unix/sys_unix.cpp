@@ -64,7 +64,7 @@
 
 
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 static disk_factory *disk_factories[] = {
