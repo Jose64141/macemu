@@ -114,7 +114,7 @@
 #include "sigregs.h"
 #include "rpc.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 
@@ -457,6 +457,7 @@ static void get_system_info(void)
 			{ 0xfffffff0, 0x00080100, "750CX" },
 			{ 0xfffffff0, 0x00082200, "750CX" },
 			{ 0xfffffff0, 0x00082210, "750CXe" },
+            { 0xfffffff0, 0x00087200, "750CL" },
 			{ 0xffffff00, 0x70000100, "750FX" },
 			{ 0xffffffff, 0x70000200, "750FX" },
 			{ 0xffff0000, 0x70000000, "750FX" },

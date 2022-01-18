@@ -67,7 +67,7 @@
 #include "video_defs.h"
 #include "video_blit.h"
 
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 #ifndef NO_STD_NAMESPACE

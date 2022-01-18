@@ -52,7 +52,7 @@ static int bincue_core_audio_callback(void);
 #endif
 
 #include "bincue_unix.h"
-#define DEBUG 0
+#define DEBUG 1
 #include "debug.h"
 
 #define MAXTRACK 100
